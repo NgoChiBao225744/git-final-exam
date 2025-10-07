@@ -1,0 +1,8 @@
+kế hoạch học tập tuần 1:
+ngày 1 : ôn tập các lệnh git cơ bản
+ngày 2 : thực hành tạo merge
+ngày 3 : học cách xử lí xung đột
+ngày 4 : tìm hiểu git rebase và git branch
+ngày 5 : làm bài tập nhóm trên github
+ngày 6 : ghi chú và tổng hợp kiến thức 
+ngày 7 : tổng kết hoàn thành bài kiểm tra
